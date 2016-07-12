@@ -1,3 +1,4 @@
+//this script uses custom libraries created by the students at MSU working for MSGC
 #include <MSGC_GPS.h>
 #include <SoftwareSerial.h>
 #include <SD.h>
